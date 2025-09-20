@@ -6,12 +6,14 @@
 fromthetransistor documentation
 ===============================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+
+**fromthetransistor** 即晶体管开始，源自于 **george hotz** 弃坑的一个开源 repo <https://github.com/geohot/fromthetransistor> ，这个文档将带你开启一个从晶体管到浏览器的旅程，gogogo!
+
+
+.. note::
+   这个项目正在积极开发中
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
+   quickstart
