@@ -1,5 +1,9 @@
 ## From the Transistor to the Web Browser
 
+计算机的教育很糟糕，永远记住计算机是工科，请先把手弄脏。
+
+这个学习计划来自于我的偶像george hotz，但是他弃坑了并没有完善这个教程，我打算把这条路线过一遍，并且会附上相应的资料，和记录代码和学习心得，希望能帮到其他人。
+
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
 
 Now cleaned up and going to be software only. Closer to being real.
