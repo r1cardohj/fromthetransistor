@@ -7,7 +7,7 @@ fromthetransistor documentation
 ===============================
 
 
-**fromthetransistor** 即晶体管开始，源自于 **george hotz** 弃坑的一个开源 repo <https://github.com/geohot/fromthetransistor> ，这个文档将带你开启一个从晶体管到浏览器的旅程，gogogo!
+**fromthetransistor** 即晶体管开始，源自于 **george hotz** 弃坑的一个开源 `repo <https://github.com/geohot/fromthetransistor>`_ ，这个文档将带你开启一个从晶体管到浏览器的旅程，准备好我们就出发吧!
 
 
 .. note::
